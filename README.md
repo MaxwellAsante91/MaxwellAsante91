@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/maxwell-asante-86484015b/">Maxwell Asante </a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity professional with hands-on experience in Security Operations, SIEM monitoring, endpoint security, network analysis, incident triage, threat detection, vulnerability management, and malware analysis using tools like Splunk, IBM QRadar, CrowdStrike Falcon, Nessus, and Tenable. Passionate about cybersecurity, I enjoy solving complex security challenges through hands-on projects that strengthen threat detection and security operations. Feel free to explore my projects and see my work in action.
 
 
 ## ⚠️ Vulnerability Management Projects
