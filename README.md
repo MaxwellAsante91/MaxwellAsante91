@@ -6,8 +6,7 @@ Cybersecurity professional with hands-on experience in Security Operations, SIEM
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/MaxwellAsante91/Vulnerability-Management-Project-/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[Windows 11 STIG Implementation/Remediations)](https://github.com/MaxwellAsante91/windows-11-stig-remediations-Vulnerability-Management-)**
+- **[Programmatic Vulnerability Remediations(Windows 11 STIG Implementations using PowerShell, BASH, & Shell Commands](https://github.com/MaxwellAsante91/windows-11-stig-remediations-Vulnerability-Management-)**
 
 ## 🚨 Threat Hunting and Security Operations
 
