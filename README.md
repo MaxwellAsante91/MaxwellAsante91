@@ -11,7 +11,7 @@ Cybersecurity professional with hands-on experience in Security Operations, SIEM
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MaxwellAsante91/threat-hunting-scenario-tor-)**
 
 <hr/>
 
